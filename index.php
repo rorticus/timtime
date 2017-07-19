@@ -29,6 +29,7 @@ if ($text === "") {
 
 $response = array(
     "response_type" => "in_channel",
+    "link_names" => 1,
     "text" => $message
 );
 

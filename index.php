@@ -4,7 +4,8 @@ $text = isset($_POST["text"]) ? $_POST["text"] : "";
 
 $quotes = array(
     "the worlds not going to wait because you're too tired!",
-    "the early kipp gets the worm!"
+    "the early kipp gets the worm!",
+    "the right man in the wrong place can make all the difference in the world. So, wake up, Mister Kipp. Wake up and... smell the ashes..."
 );
 
 $message = "";
